@@ -2,7 +2,7 @@
   "android": {
     "v8Flags": "--expose_gc"
   },
-  "main": "app.js",
-  "name": "tns-template-hello-world",
+  "main": "main.js",
+  "name": "tns-template-hello-world-ng",
   "version": "3.3.0"
 }
