@@ -1,5 +1,7 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
+npm-debug.log
+
 # dependencies
 /node_modules
 /bower_components
@@ -15,3 +17,8 @@
 #System Files
 .DS_Store
 Thumbs.db
+
+# NativeScript
+*.js.map
+app/**/*.js
+/platforms
